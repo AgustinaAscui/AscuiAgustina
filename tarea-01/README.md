@@ -1,3 +1,14 @@
+Curso: Periodismo de Datos / Narrativas Digitales
+Asignación: Tarea 01 - Análisis de una webstory basada en datos
+Fecha límite: 20 de marzo de 2026
+Alumno: Agustina Ascui
+Email: agusascui@uc.cl
+
+Nombre del reportaje: Visiting a U.S. national park—for the retro architecture (Visitando un parque nacional de EE. UU. por su arquitectura retro).
+Medio: National Geographic.
+Autores: Textos por Kathryn O'Shea-Evans; fotografías por Owen Davies.
+URL: https://www.nationalgeographic.com/travel/article/modernist-architecture-national-parks
+
 Descripción de la historia que cuenta:
 
 Esta webstory muestra una faceta poco convencional de los Parques Nacionales de Estados Unidos, dejando ver su patrimonio arquitectónico moderno correspondiente a mediados del siglo XX.
